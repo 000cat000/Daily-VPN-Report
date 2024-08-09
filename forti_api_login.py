@@ -1,4 +1,4 @@
-import requests
+import requests  # 使用API連接到FortiAnalyzer，展示如何使用API從FortiAnalyzer提取數據。
 
 # FortiAnalyzer的基本信息
 base_url = "https://your-fortianalyzer-ip/api/v2/"
